@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WebXRTest",
+"productVersion": "0.1",
+"dataUrl": "App4.data.unityweb",
+"wasmCodeUrl": "App4.wasm.code.unityweb",
+"wasmFrameworkUrl": "App4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.23f1"
+}
